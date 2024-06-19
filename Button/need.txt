@@ -1,0 +1,16 @@
+https://youtu.be/MJt_Z11Ug8E?si=lDVKL5hmEODEfIAp
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
+
+rgba(0, 0, 0, 0.1)
+
+
+#4267B2
+#1DA1F2 
+#E1306C
+#333
+#ff0000
